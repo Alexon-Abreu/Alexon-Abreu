@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Alexon Abreu!
+## Hi there 👋
 
 <!--
 **Alexon-Abreu/Alexon-Abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Alexon 👋, a computer science major who is set to graduate in May this year. My passion for software engineering started a while back. You see, as a kid, I've always aspired to have a career that involved using technology and the space to express my creativity. 
+I'm Alexon, a computer science major who is set to graduate in May this year. My passion for software engineering started a while back. You see, as a kid, I've always aspired to have a career that involved using technology and the space to express my creativity. 
 
 Over the years, I've experimented with many careers that fit the criteria, but the one that stood out to me most was software development/engineering. Primarily because of the infinite number of possible things you can do in this field, and also the challenging aspect of it, I love solving problems that get me to think. Since then, I've been steadily sharpening my skills, taking countless online courses, tackling coding challenges, and gaining valuable internship experience along the way. I've realized that the journey of learning never ends, and every experience has prepared me to take on real-world challenges. 
