@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I'm Alexon, a computer science major who is set to graduate in May this year. My passion for software engineering started a while back. You see, as a kid, I've always aspired to have a career that involved using technology and the space to express my creativity. 
 
 Over the years, I've experimented with many careers that fit the criteria, but the one that stood out to me most was software development/engineering. Primarily because of the infinite number of possible things you can do in this field, and also the challenging aspect of it, I love solving problems that get me to think. Since then, I've been steadily sharpening my skills, taking countless online courses, tackling coding challenges, and gaining valuable internship experience along the way. I've realized that the journey of learning never ends, and every experience has prepared me to take on real-world challenges. 
+
+I'm an extremely motivated software engineer eager to join a team that's willing to invest in my growth and allow me to contribute to the company's success. I'm passionate, always ready to learn, and confident I can make a real impact.
