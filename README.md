@@ -21,8 +21,9 @@ Over the years, I've experimented with many careers that fit the criteria, but t
 
 I'm an extremely motivated software engineer eager to join a team that's willing to invest in my growth and allow me to contribute to the company's success. I'm passionate, always ready to learn, and confident I can make a real impact.
 
-Feel free to learn more about me here 👉
-https://www.linkedin.com/in/alexon-abreu/
+Feel free to learn more about me here👇
+
+Linkedin: https://www.linkedin.com/in/alexon-abreu/
 
 <!--
 <a href="https://www.linkedin.com/in/alexon-abreu/" target="_blank">
