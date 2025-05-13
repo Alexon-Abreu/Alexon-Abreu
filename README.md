@@ -24,6 +24,7 @@ I'm an extremely motivated software engineer eager to join a team that's willing
 Feel free to learn more about me here👇
 
 Linkedin: https://www.linkedin.com/in/alexon-abreu/
+Personal Website: https://alexon-abreu.github.io/alexonabreu.info/
 
 <!--
 <a href="https://www.linkedin.com/in/alexon-abreu/" target="_blank">
